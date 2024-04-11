@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: #+BEGIN_SRC :results output
+# key: <p
+# condition: t               
+# --
+#+BEGIN_SRC python :results output
+`%`$0
+#+END_SRC
